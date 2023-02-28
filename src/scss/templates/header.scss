@@ -1,0 +1,22 @@
+.header {
+  margin-top: 41px;
+  &__row {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 51px;
+  }
+  &__title {
+    margin: 0;
+    padding-right: 10px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: $black;
+  }
+}
+@media screen and ( max-width: 992px ) {
+  
+}
+@media screen and ( max-width: 760px ) {
+  
+}
